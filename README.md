@@ -1,7 +1,7 @@
 # Hi, I'm Thiago 👋
 
 I have a degree in Computer Engineering and I'm a Full-Stack developer since 2018.  
-I currently work as a Tech Leader at Softbuilder.  
+I currently work as a Full-Stack developer at Phi.  
 Because I'm passionate about technology, no matter if it's hardware or software, I'm always looking to learn new technologies.  
 
 🌱 I'm Currently learning Kubernetes and Golang.  
